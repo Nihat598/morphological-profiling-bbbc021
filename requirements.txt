@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-image
+tifffile
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+natsort
+tqdm
+read-roi
+cellpose>=4.0   # only needed to re-run segmentation

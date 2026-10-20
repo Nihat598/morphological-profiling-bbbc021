@@ -1,0 +1,9 @@
+# Raw BBBC021 DAPI images (public data, ~500 MB) - fetch with scripts/prepare_dataset.py
+data/**/*.tif
+!data/**/*_masks.tif
+
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
