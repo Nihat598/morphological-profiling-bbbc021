@@ -4,7 +4,7 @@
 
 Course project for **BIO_52101_EP – Sciences des données de l'imagerie biologique** (Data Sciences of Biological Imaging), Institut Polytechnique de Paris.
 
-**Authors:** Nihat Ahmadli, Zoé Börtsök
+
 
 ---
 
